@@ -1,0 +1,13 @@
+pandas
+numpy
+rdkit
+scikit-learn
+xgboost
+joblib
+biopython
+fastapi
+torch
+tqdm
+fair-esm
+
+use pip install -r requirement.txt to install
