@@ -3,6 +3,10 @@
 AI/ML system for predicting protein-ligand binding affinity using molecular and protein features.
 
 ---
+Data used in this project was preproceesed by this code mention in this following python file:-
+1.SDF.py 
+2.PDB.py
+3.Protein embedding.py 
 
 ## Features
 
